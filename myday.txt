@@ -1,0 +1,17 @@
+Mais um dia!
+
+Hoje estou treinando VIM, um editor de texto via terminal linux.
+Comecei a gostar da ideia depois de ter ficado dias preso a extenção 
+do VIM no VS Code, ao mesmo tempo que eu odiei a ideia deste editor 
+eu fui pesquisar sobre ele e acabei amando a ideia de usar um editor
+de texto via terminal para trabalhar e para estudar. 
+
+Isso remete a uma ideia de senioridade onde eu sou um pouco diferente
+da media dos demais para trabalhar, e o mais importante, onde não tiver
+recurso para trabalhar eu vou conseguir me destacar por saber como utilizar
+os recursos mais complexos que tiverem para ser usados.
+
+
+Este foi o meu primeiro texto no editor VIM pela masterclass da Udemy.
+
+Att: Willian Fonseca
